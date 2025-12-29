@@ -5,8 +5,6 @@
 🎓 **B.Tech CSE (Artificial Intelligence)** @ IGDTUW, Delhi (2024–2028)  
 💡 Full-Stack Developer | AI Enthusiast | Problem Solver  
 
-I am a Computer Science undergraduate specializing in **Artificial Intelligence**, with strong experience in **full-stack development**, **AI-driven applications**, and **scalable system design**. I enjoy building real-world products that combine **clean UI, robust backend systems, and intelligent automation**.
-
 </div>
 ---
 
