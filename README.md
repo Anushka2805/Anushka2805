@@ -89,6 +89,14 @@
 ---
 <div align="center">
 
+## 📊 GitHub Activity Graph
+
+![Anushka's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushka2805&theme=react-dark&hide_border=true)
+
+</div>
+---
+<div align="center">
+
 ## Let's Connect
 
 <a href="mailto:anushkaggarwal2005@gmail.com">
