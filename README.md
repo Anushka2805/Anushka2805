@@ -92,11 +92,23 @@
 ---
 <div align="center">
 
-## 📫 Connect With Me
-- 📧 Email: anushkaggarwal2005@gmail.com  
-- 💼 LinkedIn
-- 💻 GitHub: [github.com/Anushka2805](https://github.com/Anushka2805)  
-- 🧩 LeetCode: 
+## Let's Connect
+
+<a href="mailto:anushkaggarwal2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="www.linkedin.com/in/anushka-aggarwal-21178128a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Anushka2805">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://anushka-portfolio-xi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 ---
 
