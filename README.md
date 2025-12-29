@@ -5,7 +5,6 @@
 🎓 **B.Tech CSE (Artificial Intelligence)** @ IGDTUW, Delhi (2024–2028)  
 💡 Full-Stack Developer | AI Enthusiast | Problem Solver  
 
-</div>
 ---
 
 ## 🧠 Technical Skills
@@ -40,6 +39,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+</div>
+
 
 ## 💼 Experience
 
