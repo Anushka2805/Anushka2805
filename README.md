@@ -85,7 +85,8 @@
 
 ## 👥 Positions of Responsibility
 - **Web Development Associate** — Microsoft Learn Student Ambassador, IGDTUW  
-- **Creative Team Core** — E-Cell, IGDTUW  
+- **Creative Team Core** — E-Cell, IGDTUW
+- **Creative Team Core** — Super30, IGDTUW  
 
 ---
 <div align="center">
