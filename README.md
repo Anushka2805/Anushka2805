@@ -74,10 +74,11 @@
 ---
 
 ## 🏆 Achievements & Certifications
+- 🏅 Top 26 — **Square Hacks, IIT Delhi** (Ranked Top 26 out of 600+ teams)  
 - 📄 ISCS 2025: Research paper accepted — *Phishing Detection using Machine Learning*  
 - 🥇 Winner — **Innovertex 3.0** (1st out of 400+ teams)  
 - 🥈 First Runner-up — **SharkTank, IGDTUW**  
-- 🔟 Top 10 — **Sustainability Hackathon, IIT Delhi** (ParaliXpert)  
+- 🔟 Top 10 — **Blueprint Hackathon, IIT Delhi** 
 - 🏅 Top 30 — **Smart Delhi Ideathon (SDI)**
 
 ---
