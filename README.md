@@ -58,16 +58,19 @@
 
 ### **Teamify.AI**  
 *Next.js | Node.js | Socket.io | MongoDB | Gemini AI*  
+🔗 <a href="https://teamify-ai.vercel.app/" target="_blank"><b>Live</b></a> | 🔗 <a href="https://github.com/Anushka2805/teamify.ai" target="_blank"><b>GitHub</b></a>
 - Built a collaboration platform with **real-time team chat** and **AI-powered chat summarization**.  
 - Implemented an **AI Pitch Generator** and centralized resource hub with authentication and notifications.
 
 ### **Repaly.ai**  
 *Next.js | Redux | Tailwind CSS*  
+🔗 <a href="https://www.repaly.ai/" target="_blank"><b>Live</b></a>
 - Worked on an AI-driven social media automation platform increasing **engagement by 40%**.  
 - Developed real-time analytics dashboards using backend REST APIs.
 
 ### **HealthEase**  
-*Next.js | AI | PostgreSQL*  
+*Next.js | AI | PostgreSQL* 
+🔗 <a href="https://health-ease-five.vercel.app/mainpage" target="_blank"><b>Live</b></a> | 🔗 <a href="https://github.com/Anushka2805/Health_Ease" target="_blank"><b>GitHub</b></a>
 - Designed patient & doctor dashboards with **chronological medical record management**.  
 - Integrated an **AI-powered symptom checker chatbot** handling 20+ health queries.
 
