@@ -82,9 +82,10 @@
 ---
 
 ## 🏆 Achievements & Certifications
-- 🏅 Top 26 — **Square Hacks, IIT Delhi** (Ranked Top 26 out of 600+ teams)  
+- 🏅 Top 14 — ** Fin-O-Hack by PAYTM** (Ranked among the top 14 out of 400 teams in the "AI for Better UX" track. )  
+- 🏅 Top 26 — **Square Hacks, IIT Delhi** (Among Top 26 teams out of 600+ for building Kalakriti, a platform linking artisans and buyers, under the Rural India Challenge.)  
 - 📄 ISCS 2025: Research paper accepted — *Phishing Detection using Machine Learning*  
-- 🥇 Winner — **Innovertex 3.0** (1st out of 400+ teams)  
+- 🥇 Winner — **Innovertex 3.0** (Secured 1st position for UPSC website revamp with responsive design across 5+ screen sizes.)  
 - 🥈 First Runner-up — **SharkTank, IGDTUW**  
 - 🔟 Top 10 — **Blueprint Hackathon, IIT Delhi** 
 - 🏅 Top 30 — **Smart Delhi Ideathon (SDI)**
